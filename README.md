@@ -11,17 +11,22 @@ In the summary section, I rated the performance of these models and make a writt
 
 ## Results
 - Random Oversampling (accuracy .59)
+![image](https://github.com/scallina/Credit_Risk_Analysis/blob/main/Images/Random%20Oversampling.png)
 
 - SMOTE Undersampling (accuracy .65)
+![image](https://github.com/scallina/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling.png)
 
 - Undersampling (accuracy .65)
+![image](https://github.com/scallina/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
 
 - Combination Sampling (accuracy .54)
+![image](https://github.com/scallina/Credit_Risk_Analysis/blob/main/Images/Combination%20Sampling.png)
 
 - Random Forest Sampling (accuracy .66)
+![image](https://github.com/scallina/Credit_Risk_Analysis/blob/main/Images/Random%20Forest.png)
 
-- EasyEnsemble (accurach .66)
-
+- EasyEnsemble (accuracy .66)
+![image](https://github.com/scallina/Credit_Risk_Analysis/blob/main/Images/Ensemble%20Adaboost.png)
 
 ## Summary 
 
